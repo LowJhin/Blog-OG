@@ -1,0 +1,134 @@
+  #og_master {
+    font-feature-settings: 'ss01' 1;
+    -webkit-text-size-adjust: 100%;
+    font-weight: 400;
+    font-family: 'AppleSDGothicNeo', 'Noto Sans KR', sans-serif;
+    line-height: 1.25;
+    font-size: 100%;
+    word-break: break-word;
+    position: relative;
+    box-sizing: border-box;
+    display: block;
+    height: 200px;
+    border: 1px solid #d9d9d9;
+    text-decoration: none;
+    color: #000;
+    z-index: 1;
+  }
+  #og-box {
+    font-feature-settings: 'ss01' 1;
+    -webkit-text-size-adjust: 100%;
+    font-weight: 400;
+    font-family: 'AppleSDGothicNeo', 'Noto Sans KR', sans-serif;
+    line-height: 1.25;
+    font-size: 100%;
+    word-break: break-word;
+    position: relative;
+    box-sizing: border-box;
+    display: block;
+    height: 200px;
+    border: 1px solid #d9d9d9;
+    text-decoration: none;
+    color: #000;
+    z-index: 1;
+  }
+  .og-image {
+    font-feature-settings: 'ss01' 1;
+    -webkit-text-size-adjust: 100%;
+    font-weight: 400;
+    font-family: 'AppleSDGothicNeo', 'Noto Sans KR', sans-serif;
+    line-height: 1.25;
+    font-size: 100%;
+    word-break: break-word;
+    color: #000;
+    margin: 0;
+    padding: 0;
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    width: 200px;
+    border-right: 1px solid #d9d9d9;
+    background-size: cover;
+    background-position: center;
+    background-image: url('https://scrap.kakaocdn.net/dn/bY9ote/hyNEmsWpzI/MfZH1OCtp9c8GBilQFQP6K/img.png?width=800&height=450&face=0_0_800_450,https://scrap.kakaocdn.net/dn/bfx6WA/hyNEsGGMpI/teCdnR0wkHl0lAOSh6PCEK/img.png?width=800&height=450&face=0_0_800_450,https://scrap.kakaocdn.net/dn/4XGVG/hyNEhLVmzE/Ehl19dmNMuJav2gfeqWtsK/img.png?width=1920&height=1080&face=0_0_1920_1080');
+  }
+  .og-text {
+    font-feature-settings: 'ss01' 1;
+    -webkit-text-size-adjust: 100%;
+    font-weight: 400;
+    font-family: 'AppleSDGothicNeo', 'Noto Sans KR', sans-serif;
+    line-height: 1.25;
+    font-size: 100%;
+    word-break: break-word;
+    color: #000;
+    margin: 0;
+    position: absolute;
+    left: 201px;
+    right: 0;
+    top: 0;
+    bottom: 0;
+    box-sizing: border-box;
+    padding: 33px 46px 0 39px;
+  }
+  .og-title {
+    font-feature-settings: 'ss01' 1;
+    -webkit-text-size-adjust: 100%;
+    font-weight: 400;
+    padding: 0;
+    padding-top: 0 !important;
+    padding-bottom: 0 !important;
+    word-break: break-all;
+    color: #000000;
+    font-size: 22px;
+    line-height: 28px;
+    max-width: 467px;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+    margin: 0 0 10px 0 !important;
+    overflow: hidden;
+    font-family: Pretendard-Regular, sans-serif;
+  }
+  .og-desc {
+    font-feature-settings: 'ss01' 1;
+    -webkit-text-size-adjust: 100%;
+    padding: 0;
+    padding-top: 0 !important;
+    padding-bottom: 0 !important;
+    margin-top: 0 !important;
+    margin-bottom: 0 !important;
+    word-break: break-all;
+    margin: 0px;
+    text-overflow: ellipsis;
+    overflow: hidden;
+    font-family: Pretendard-Regular, sans-serif;
+    font-size: 14px;
+    font-weight: 300;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: normal;
+    letter-spacing: normal;
+    color: #909090;
+    max-height: 42px;
+    -webkit-line-clamp: 2;
+    -webkit-box-orient: vertical;
+    display: -webkit-box;
+  }
+  .og-host {
+    font-feature-settings: 'ss01' 1;
+    -webkit-text-size-adjust: 100%;
+    font-weight: 400;
+    padding: 0;
+    padding-top: 0 !important;
+    padding-bottom: 0 !important;
+    margin-top: 0 !important;
+    margin-bottom: 0 !important;
+    word-break: break-all;
+    line-height: 2;
+    position: absolute;
+    bottom: 24px;
+    font-family: Pretendard-Regular, sans-serif;
+    font-size: 14px;
+    color: #909090;
+    margin: 0;
+  }
